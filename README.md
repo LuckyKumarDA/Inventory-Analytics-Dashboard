@@ -43,15 +43,13 @@ The objective is to transform raw inventory data into meaningful business insigh
 6. Stock Status Analysis
 
 ## 📈 Dashboard Preview
-
-![Inventory Analytics Dashboard](./Dashboard%20Screenshot.jpg)
+![Dashboard Screenshot](Dashboard%20Screenshot.jpg)
 
 ## 📋 Pivot Table Analysis
 
 Pivot Tables were used to summarize and analyze inventory data across different categories, products, warehouses, suppliers, and monthly trends.
 
-![Inventory Pivot Tables](./Pivot%20Tables%20Inventory%20Dashboard.png)
-
+![Pivot Tables Inventory Dashboard](Pivot%20Tables%20Inventory%20Dashboard.png)
 ## 💡 Key Business Insights
 
 1. Electronics contributes approximately 51.4% of total inventory value.
