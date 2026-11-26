@@ -49,14 +49,13 @@ The objective is to transform raw inventory data into meaningful business insigh
 6. Stock Status Analysis
 
 ## 📈 Dashboard Preview
-
 ![Dashboard Screenshot](./Dashboard%20Screenshot.jpg)
+
 
 ## 📋 Pivot Table Analysis
 
 Pivot Tables were used to summarize and analyze inventory data across different categories, products, warehouses, suppliers, and monthly trends.
-
-![Pivot Tables Inventory Dashboard](./Pivot%20Tables%20Inventory%20Dashboard.png)
+![Pivot Tables Inventory](./Pivot%20Tables%20Inventory%20Dahsboard.png)
 
 ## 💡 Key Business Insights
 
