@@ -32,7 +32,7 @@ The objective is to transform raw inventory data into meaningful business insigh
 - Total Inventory Quantity: 63,128
 - Total Inventory Value: ₹12.81 Crore
 - Data Period: January 2025 – May 2026
-
+ 
 ## 📊 Analysis Performed
 
 1. Inventory Value by Category
