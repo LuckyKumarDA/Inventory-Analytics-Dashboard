@@ -58,14 +58,25 @@ Pivot Tables were used to summarize and analyze inventory data across different 
 ![Pivot Tables](pivot-tables.png)
 
 ## 💡 Key Business Insights
+## 💡 Final Key Insights
 
-1. Electronics contributes approximately 51.4% of total inventory value.
-2. 52 out of 500 inventory records are classified as Low Stock.
-3. HYD Hub has the highest stock quantity among all warehouses, with 20,839 units.
-4. Coffee Maker has the highest product quantity, with 3,838 units.
-5. January 2025 recorded the highest monthly sales value.
-6. August 2025 recorded the highest monthly purchase value.
-7. Total purchase value is higher than total sales value during the analyzed period.
+1. **Inventory value is concentrated in Electronics (51.4%).** Laptop Pro 15 alone holds 19.9% of total value but has the lowest sell-through (9.0%), so it is an overstock risk.
+2. **Sales are declining while stock keeps building.** Sales fell ~28% (Jan–Apr 2026 vs Jan–Apr 2025), but purchases fell only ~19%.
+3. **Total purchases (₹1.79 Cr) exceed total sales (₹1.60 Cr) by ~12%.**
+4. **HYD Hub holds 35.8% of inventory value** (20,839 units), which creates a concentration risk.
+5. **Low stock is a small problem in value terms.** 52 of 500 records (10.4%) are Low Stock, but they represent only 1.25% of inventory value.
+6. **Low-stock rates differ by location and category.** KLR (14.9%) and CHN (14.6%) are the worst warehouses; Furniture (16.4%) is the worst category.
+7. **Peaks:** January 2025 had the highest sales; August 2025 had the highest purchases.
+
+## ✅ Recommendations
+
+1. **Cut purchase orders for slow-moving, high-value items** (Laptop Pro 15, LED TV 55") until sell-through improves.
+2. **Align purchasing with sales.** Purchases should follow the declining sales trend to stop stock build-up.
+3. **Rebalance stock from HYD Hub to KLR and CHN** to reduce concentration and fix their low-stock rates.
+4. **Prioritise reorders for Furniture**, which has the highest low-stock rate.
+5. **Track sell-through % (Sales Qty ÷ Quantity) as a KPI** and review it monthly, so overstock is caught early.
+
+> Note: May 2026 data is available only up to 15 May. Quantity is a sum of dated records, not a single-day stock count.
 
 ## 📌 Conclusion
 
