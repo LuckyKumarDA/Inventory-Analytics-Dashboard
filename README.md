@@ -6,7 +6,7 @@
 
 This project focuses on analyzing inventory data using Microsoft Excel. It provides insights into inventory performance, stock availability, product categories, warehouse distribution, supplier purchases, and monthly sales trends.
 
-The main objective is to transform raw inventory data into meaningful business insights and support better inventory management decisions.
+The objective is to transform raw inventory data into meaningful business insights and support better inventory management decisions.
 
 ## 🎯 Project Objectives
 
@@ -44,13 +44,13 @@ The main objective is to transform raw inventory data into meaningful business i
 
 ## 📈 Dashboard Preview
 
-![Inventory Analytics Dashboard](Dashbaord Screenshot.jpg)
+![Inventory Analytics Dashboard](./Dashboard%20Screenshot.jpg)
 
 ## 📋 Pivot Table Analysis
 
 Pivot Tables were used to summarize and analyze inventory data across different categories, products, warehouses, suppliers, and monthly trends.
 
-![Pivot Table Analysis](Pivot Tables Inventory Dahsbaord.png)
+![Inventory Pivot Tables](./Pivot%20Tables%20Inventory%20Dashboard.png)
 
 ## 💡 Key Business Insights
 
