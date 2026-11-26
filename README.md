@@ -26,6 +26,12 @@ The objective is to transform raw inventory data into meaningful business insigh
 - Slicers
 - Data Analysis
 
+## 📂 Project Files
+
+- **Excel Workbook:** Inventory Analytics Dashboard.xlsx
+- **Dashboard Screenshot:** Dashboard Screenshot.jpg
+- **Pivot Tables Screenshot:** Pivot Tables Inventory Dashboard.png
+
 ## 📂 Dataset Information
 
 - Total Records: 500
@@ -43,6 +49,7 @@ The objective is to transform raw inventory data into meaningful business insigh
 6. Stock Status Analysis
 
 ## 📈 Dashboard Preview
+
 ![Dashboard Screenshot](./Dashboard%20Screenshot.jpg)
 
 ## 📋 Pivot Table Analysis
